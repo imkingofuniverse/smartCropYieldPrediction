@@ -4,6 +4,7 @@ Smart Crop Yield Prediction: Leveraging Machine Learning and Big Data for Sustai
 
 
 
+
 <img width="720" height="540" alt="Slide5" src="https://github.com/user-attachments/assets/05e8981f-daef-418b-88bd-bf3676cce3d5" />
 <img width="720" height="540" alt="Slide6" src="https://github.com/user-attachments/assets/95a391ea-1d94-4970-9c67-5e33f4ba0398" />
 <img width="720" height="540" alt="Slide7" src="https://github.com/user-attachments/assets/2ac6ee50-5d97-408e-9b51-711874341890" />
